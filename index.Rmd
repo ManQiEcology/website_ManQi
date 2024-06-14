@@ -1,9 +1,15 @@
 ---
-title: "index"
-author: "Man Qi"
+title: "About"
+author: "Man Qi | Marie Curie Fellow @ University of Oxford"
 date: "2024-06-14"
 output: html_document
 ---
+Hi, Welcome to my website! I am a coastal community ecologist, theoretical ecologist, and ecological modeler. 
+
+I am interested in deciphering the dynamics of intraspecific/interspecific interactions and the mechanisms driving species stability/coexistence amidst varying physical stressors. My focus is on gaining insights into how these ecological processes influence ecosystem stabilities, particularly in the face of a changing climate. 
+
+My research are mostly problem or hypothesis driven. I use field in situ experiment, greenhouse experiment, ecological models and remote sensing techniques (drones, airborne data,and satelite data) to understand the mechanisms maintain population/community stability at various spatial scale. I am keen on applying these mechanistic understandings to contribute to nature-based conservation and restoration initiatives.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
